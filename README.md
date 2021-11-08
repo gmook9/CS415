@@ -1,6 +1,3 @@
-CS 415 Project 1
-Dr. Ravikumar
-Fall 2021
 
 Contributors: Katie Pell and Garret Mook
 
